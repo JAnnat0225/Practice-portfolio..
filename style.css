@@ -27,7 +27,7 @@ padding-left: 30px;
     transform: scale(1.1);
 }
 .navbar a:hover{
-    background-color: rgb(132, 182, 182);
+    background-color: rgb(215, 233, 233);
 border-radius: 5px;
 }
 /* .image{
@@ -44,5 +44,6 @@ border-radius: 5px;
 #contact:hover{
     transform: scale(1.1);
 }
+
 
 
