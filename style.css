@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.image{
+width: 100%;
+    height: 500px;
+    background-image: url(img/bannar.png);
+    background-size: cover;
+    font-family: fantasy;
+    background-position: center;
+
+
+}
+.h
+{
+ color: rgb(7, 64, 64);
+padding-top: 90px;
+padding-left: 30px;
+
+}
+.card{
+    transition: 4.0s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.navbar a:hover{
+    background-color: rgb(132, 182, 182);
+border-radius: 5px;
+}
+/* .image{
+    transition: 4.0s;
+}
+.image:hover{
+    transform: scale(1.1)
+} */
+
